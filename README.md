@@ -1,5 +1,4 @@
 # Task-List   :clipboard:   
-This is a small front-end project using HTML 5, CSS, Vanilla JavaScript. It allows to add, and remove tasks.
 This is a task list application, it allows you to add tasks which are saved in local storage from your browser. You can also filter to
 find specific tasks, delete sigle tasks and delete all tasks. The technologies and techniques used are the following.
 ## Technologies and techniques used for this project
