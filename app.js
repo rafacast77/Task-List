@@ -49,6 +49,7 @@ function createNewTaskElement(task) {
   newTask.appendChild(document.createTextNode(task));
   const newTaskATag = document.createElement('a');
   newTaskATag.style.cursor = 'pointer';
+  newTaskATag.style.color = '#e01a4f';
   newTaskATag.className = 'delete-item secondary-content';
   newTaskATag.innerHTML = '<i class="material-icons">delete</i>';
 
