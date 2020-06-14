@@ -4,7 +4,7 @@ find specific tasks, delete sigle tasks and delete all tasks.
 ## Technologies and techniques used for this project
 * **HTML 5**
 * **CSS**
-* **DOM manipulation with vanilla JavaScript :** I have used Vanilla JavaScript to practice DOM manipulation without a framework. I am also trying to improve my skills on the language.
+* **DOM manipulation with vanilla JavaScript :** I have used Vanilla JavaScript to practice DOM manipulation without a framework. and also improve my skills on the language.
    * Event delegation
    * Local Storage
    * DOM Stryles, Events, Element, Document, Window.
