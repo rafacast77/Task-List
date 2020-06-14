@@ -13,3 +13,4 @@ find specific tasks, delete sigle tasks and delete all tasks. The technologies a
    * Grid system manipulation for responsive interface.
    * Cards, Buttons, Icons, Collections, Forms, Toast.
 * **Color pallette :** :art: 
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
