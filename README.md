@@ -16,5 +16,5 @@ find specific tasks, delete sigle tasks and delete all tasks.
 
 
 
-![Colors](img/Loan_calculator_color_palette.png?raw=true "Color Palette")
+![Colors](images/task_list_color_palette.png?raw=true "Color Palette")
 
